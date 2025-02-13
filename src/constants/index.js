@@ -184,7 +184,7 @@ export const socialLinks = [
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/navy-patel-a2121b2b7',
+        link: 'https://www.linkedin.com/in/navy-patel',
     }
 ];
 
